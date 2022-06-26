@@ -1,19 +1,4 @@
-<div align="center">
-	<a href="https://www.qloapps.com"><img src="https://forums.qloapps.com/assets/uploads/system/site-logo.png?v=hkl8e1230fo" alt="QloApps"></a>
-	<br>
-	<p>
-		<b>QloApps - An open source and free platform to launch your own hotel booking website</b>
-	</p>
-</div>
 
-<p align="center">
-	<a href="https://qloapps.com/download/"><img src="https://img.shields.io/badge/Download-Download%20QloApps%20-brightgreen" alt="Download"></a>
-	<a href="https://qloapps.com/qlo-reservation-system/"><img src="https://img.shields.io/badge/Documentation-Blog-yellowgreen" alt="Documentation"></a>
-	<a href="https://forums.qloapps.com/"><img src="https://img.shields.io/badge/Forum-Help%2FSupport-green" alt="Forum"></a>
-	<a href="https://qloapps.com/addons/"><img src="https://img.shields.io/badge/Addons-Plugins-blueviolet" alt="Addons"></a>
-	<a href="https://qloapps.com/contact/"><img src="https://img.shields.io/badge/Contact-Get%20In%20Touch-blue" alt="Contact us"></a>
-	<a href="https://github.com/webkul/hotelcommerce/blob/develop/LICENSE"><img src="https://img.shields.io/badge/License-OSL%20V3-green" alt="License"></a>
-</p>
 
 ## Topics
 - [Topics](#topics)
@@ -95,4 +80,4 @@ As a PHP developer who has command on PHP and MySQL and also knows how to use Gi
 For more information about the contribution process please visit **[Contribute to QloApps](https://qloapps.com/how-to-contribute-to-qloapps-project/)**
 
 ### Credits
-Crafted with :heart: at [Webkul](https://webkul.com)
+Crafted with :heart: at [Webkul]
